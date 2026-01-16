@@ -4,7 +4,9 @@ A lightweight, high-performance desktop tool for AI background removal, PDF to W
 一款轻量、高效的桌面工具，支持 AI 抠图、PDF 转 Word 以及视频转 GIF。
 
 ---
+[👉 点击这里下载最新版 EXE (Download Latest EXE)](https://github.com/Black-zzy2012/NanoTools/releases/latest)
 
+---
 ## ⚠️ Important Tips | 使用必读 (非常重要)
 
 ### 1. Fix for Random Crashes | 闪退避让指南
